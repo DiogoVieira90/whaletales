@@ -153,6 +153,8 @@ section .blur {
 
 
 .section2 {
+  height: auto;
+  padding-bottom: 64px;
   background-image: url(img/bg-04.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -184,6 +186,8 @@ section .blur {
 
 
 .section3 {
+  height: auto;
+
   margin-top: -32px;
   background-image: url(img/bg-02.jpg);
   background-repeat: no-repeat;
